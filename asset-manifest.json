@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Quote-WebApp-React/static/css/main.840a6b0c.css",
+    "main.js": "/Quote-WebApp-React/static/js/main.644f7867.js",
+    "static/media/Loader.svg": "/Quote-WebApp-React/static/media/Loader.1b51330b1c703c25eda075f7fdf212a8.svg",
+    "index.html": "/Quote-WebApp-React/index.html",
+    "main.840a6b0c.css.map": "/Quote-WebApp-React/static/css/main.840a6b0c.css.map",
+    "main.644f7867.js.map": "/Quote-WebApp-React/static/js/main.644f7867.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840a6b0c.css",
+    "static/js/main.644f7867.js"
+  ]
+}
